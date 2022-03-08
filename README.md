@@ -24,3 +24,6 @@ Updating a WishList
 Deleting a WishList
 <img width="1440" alt="Screen Shot 2022-03-07 at 6 22 33 PM" src="https://user-images.githubusercontent.com/22124043/157146995-c30954e6-2568-486e-a138-3b096a725e7f.png">
 
+Suggestions/Improvments 
+
+I have just created a very basic boiler plate code which would just test out the wishlist functionality
